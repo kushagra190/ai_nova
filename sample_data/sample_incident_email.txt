@@ -1,0 +1,29 @@
+From: Vikram Rao <vikram.rao@apiplant.example>  (Production Supervisor, API Block C)
+To: QA Investigations <qa.investigations@apiplant.example>
+Date: 2026-10-07 07:42
+Subject: URGENT - Moisture (LOD) excursion in Atorvastatin Calcium batch ATV-2610C after drying
+
+Hi QA team,
+
+Reporting a drying excursion from last night's shift for your investigation.
+
+Batch ATV-2610C (Atorvastatin Calcium API, 220 kg) was dried in Rotary Cone Vacuum Dryer RCVD-03
+for the standard 10 hours at 45 C jacket temperature. The in-process Loss on Drying (LOD) result
+was 2.1% w/w against the limit of NMT 0.5% w/w.
+
+What we found so far:
+- The vacuum gauge on RCVD-03 showed 650 mmHg for most of the cycle (normally 720+ mmHg). The
+  vacuum pump oil looked dark and was last changed 3 months ago (PM schedule says monthly).
+- The vent filter on the dryer was found partly choked with powder.
+- The night-shift operator says he followed SOP-PRD-207, but the "vacuum check every 2 hours"
+  entries in the batch record were filled in together at the end of the shift.
+- The dryer room humidity logger stopped recording at 01:30 (battery dead), so we have no RH data
+  for the second half of the cycle.
+
+Batch is on hold in the dryer. We have NOT started re-drying - waiting for QA approval.
+Please advise and start the deviation / RCA.
+
+Thanks,
+Vikram Rao
+Production Supervisor - API Block C
+Ext. 4417
